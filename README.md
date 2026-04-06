@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**seleena-coding-2021/seleena-coding-2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-#Hi, I am Seleena Desai
+##Hi, I am Seleena Desai
 I am a third year computer science and business adminsitration combined major at Northeastern University. I am currently seeking a UX/UI or front-end engineering position from July-December of 2026. I am passionate about crafting seamless, user-centered digital experiences.
 
 I have had several work experiences in the computer science world. I was a UX/UI Design Intern at GoTu, where I learned utilized tools like Figma, Miro. and Canva. Last fall, I was a full-stack software engineering co-op at Liberty Mutual. 
@@ -19,4 +14,4 @@ I have had several work experiences in the computer science world. I was a UX/UI
 #Connect with Me:
 - [LinkedIn] (https://www.linkedin.com/in/seleenadesai/)
 - [Portfolio] (https://seleenadesai.wixsite.com/portfolio/portfolio)
--->
+
