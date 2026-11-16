@@ -1,15 +1,21 @@
 ## Hi, I am Seleena Desai
-I am a third year computer science and business administration combined major at Northeastern University. I am currently seeking a UX/UI or front-end engineering position from July–December of 2026. I am passionate about crafting seamless, user-centered digital experiences.
+I am a fourth year computer science and business administration combined major at Northeastern University. I am passionate about crafting seamless, user-centered digital experiences.
 
-I have had several work experiences in the computer science world. I was a UX/UI Design Intern at GoTu, where I utilized tools like Figma, Miro, and Canva. Last fall, I was a full-stack software engineering co-op at Liberty Mutual.
+I have had several work experiences in the computer science world. I was a UX/UI Design Intern at GoTu, where I utilized tools like Figma, Miro, and Canva. Last fall, I was a full-stack software engineering co-op at Liberty Mutual. 
 
 ---
 
 ## Currently
-- Taking CS 3200, Introduction to Databases, where we are learning all about databases (SQL, Python, Streamlit)
-- Taking DS 4200, Information Presentation & Visualization, where we are learning about creating visualizations and interpreting them (Python)
-- Taking MKTG 3402, Gaining Insights from Consumer Data, where we are learning how to analyze consumer data to improve customer experience (R)
-- Taking ORGB 3201, Organizational Behavior, an overview of the actions and behaviors of people in organizations (Case Studies)
+
+I am a Supply Chain Co-op at Hasbro!
+
+● Managing end-to-end network planning operations, including daily/weekly reporting, product authorization
+planning, and deployment purchase order scheduling, while proactively identifying and mitigating supply
+shortages across the distribution network.
+● Leveraging Claude and Copilot to build Power Automate workflows that streamline reporting processes, reducing
+manual turnaround time of 30 minutes to 5 minutes.
+● Redesigning the co-op onboarding program, introducing structured training and daily shadowing to accelerate
+new hire ramp-up and improve team productivity from 3 weeks to 1.5 weeks
 
 ---
 
